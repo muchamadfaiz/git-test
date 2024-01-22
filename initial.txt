@@ -10,8 +10,12 @@ save
 dari remote
 lah lah
 feat 1 baru
+<<<<<<< HEAD
 feat 11 baru
 feat 10 baru
 feat 9 baru
 feat 8 baru
 feat 6 baru
+=======
+feat 5 baru
+>>>>>>> feat/5
