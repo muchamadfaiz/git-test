@@ -2,3 +2,4 @@ ini awal
 ini development
 ini feat 1
 feat3
+buat divergen
