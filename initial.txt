@@ -1,3 +1,4 @@
 ini awal
 ini development
 ini feat 1
+buat divergen
